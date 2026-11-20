@@ -16,8 +16,12 @@
     <td width="440">
       <h3><a href="https://github.com/vamos-team/telescope">TELESCOPE</a></h3>
       기업 경영실적 다면 · 심층 분석 AI Agent<br/><br/>
-      <sub>공시와 뉴스에서 사실(별)을 찾고, 그 사이를 근거로 이어 해석(별자리)을 만듭니다.<br/>
+      <sub>공시와 뉴스에서 사실(별)을 찾고, 그 사이를 근거로 이어 인사이트(별자리)를 만듭니다.<br/>
       챗봇 캐릭터 <b>스텔라</b>는 라틴어로 '별'. 우리 여섯 명이 각자의 스텔라입니다.</sub><br/><br/>
+      <table>
+        <tr><td><sub><b>후원</b></sub></td><td><sub>SK AX &nbsp;|&nbsp; SKALA</sub></td></tr>
+        <tr><td><sub><b>고객사</b></sub></td><td><sub>SK Telecom</sub></td></tr>
+      </table>
       <a href="https://github.com/vamos-team/telescope"><img src="https://img.shields.io/badge/Repository-telescope-121A3D?style=flat-square&logo=github" alt="telescope repository"/></a>
     </td>
   </tr>
@@ -86,4 +90,4 @@
   <img src="./assets/carrot.png" width="64" alt="당근"/>
   <img src="./assets/tiger.png" width="64" alt="호랑이"/>
 </p>
-<p align="center"><sub>Team Vamos · SKALA</sub></p>
+<p align="center"><sub>Team Vamos · SK AX SKALA</sub></p>
