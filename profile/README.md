@@ -16,14 +16,14 @@
 <p align="center">여섯 개의 별이 모여 하나의 별자리가 됩니다. 카드를 누르면 각자의 GitHub로 이동해요.</p>
 
 <p align="center">
-  <a href="https://github.com/zzumuchi"><img src="./assets/card-carrot.png" width="270" alt="김준영 (@zzumuchi)"/></a>
-  <a href="https://github.com/wannagola"><img src="./assets/card-elephant.png" width="270" alt="성민기 (@wannagola)"/></a>
-  <a href="https://github.com/hjyoon99"><img src="./assets/card-penguin.png" width="270" alt="윤혜정 (@hjyoon99)"/></a>
+  <a href="https://github.com/zzumuchi"><img src="./assets/card-carrot-v2.png" width="270" alt="김준영 (@zzumuchi)"/></a>
+  <a href="https://github.com/wannagola"><img src="./assets/card-elephant-v2.png" width="270" alt="성민기 (@wannagola)"/></a>
+  <a href="https://github.com/hjyoon99"><img src="./assets/card-penguin-v2.png" width="270" alt="윤혜정 (@hjyoon99)"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/yongmaengee"><img src="./assets/card-tiger.png" width="270" alt="안중범 (@yongmaengee)"/></a>
-  <a href="https://github.com/ljs65626"><img src="./assets/card-fox.png" width="270" alt="임진섭 (@ljs65626)"/></a>
-  <a href="https://github.com/yuni-ju"><img src="./assets/card-rabbit.png" width="270" alt="주윤겸 (@yuni-ju)"/></a>
+  <a href="https://github.com/yongmaengee"><img src="./assets/card-tiger-v2.png" width="270" alt="안중범 (@yongmaengee)"/></a>
+  <a href="https://github.com/ljs65626"><img src="./assets/card-fox-v2.png" width="270" alt="임진섭 (@ljs65626)"/></a>
+  <a href="https://github.com/yuni-ju"><img src="./assets/card-rabbit-v2.png" width="270" alt="주윤겸 (@yuni-ju)"/></a>
 </p>
 
 <br/>
