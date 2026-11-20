@@ -1,10 +1,7 @@
-<p align="center">
-<img src="./assets/poster-v1.png" width="100%" alt="Team Vamos: 바라보고, 모으고, 스토리로 잇는다 / TELESCOPE / Members"/>
-</p>
+<p align="center"><img src="./assets/p-top.png" width="100%" align="top" alt="Team Vamos: 바라보고, 모으고, 스토리로 잇는다 / TELESCOPE / Members"/><br/><a href="https://github.com/zzumuchi"><img src="./assets/p-carrot.png" width="33.33%" align="top" alt="김준영 (@zzumuchi)"/></a><a href="https://github.com/wannagola"><img src="./assets/p-elephant.png" width="33.33%" align="top" alt="성민기 (@wannagola)"/></a><a href="https://github.com/hjyoon99"><img src="./assets/p-penguin.png" width="33.33%" align="top" alt="윤혜정 (@hjyoon99)"/></a><br/><a href="https://github.com/yongmaengee"><img src="./assets/p-tiger.png" width="33.33%" align="top" alt="안중범 (@yongmaengee)"/></a><a href="https://github.com/ljs65626"><img src="./assets/p-fox.png" width="33.33%" align="top" alt="임진섭 (@ljs65626)"/></a><a href="https://github.com/yuni-ju"><img src="./assets/p-rabbit.png" width="33.33%" align="top" alt="주윤겸 (@yuni-ju)"/></a></p>
 
 <p align="center">
-<b>Members</b> &nbsp; <a href="https://github.com/zzumuchi">김준영</a> &nbsp;·&nbsp; <a href="https://github.com/wannagola">성민기</a> &nbsp;·&nbsp; <a href="https://github.com/hjyoon99">윤혜정</a> &nbsp;·&nbsp; <a href="https://github.com/yongmaengee">안중범</a> &nbsp;·&nbsp; <a href="https://github.com/ljs65626">임진섭</a> &nbsp;·&nbsp; <a href="https://github.com/yuni-ju">주윤겸</a><br/>
-<b>Repository</b> &nbsp; <a href="https://github.com/vamos-team/telescope">vamos-team/telescope</a>
+멤버 카드를 누르면 각자의 GitHub로 이동해요. &nbsp;·&nbsp; <b>Repository</b> &nbsp;<a href="https://github.com/vamos-team/telescope">vamos-team/telescope</a>
 </p>
 
 <p align="center">
